@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.1
+apiversion: 2
+description: This module lets you see if an app is installed (by app ID) and launch it if you like.
+author: Shannon Hicks
+license: Use however you like! If you fix bugs, please submit pull requests.
+copyright: 2012 Shannon Hicks
+
+
+# these should not be edited
+name: apphelper
+moduleid: org.iotashan.apphelper
+guid: 74dda018-cc2b-47bd-be63-2efa877f917a
+platform: android
+minsdk: 2.0.0.v20120326211803
